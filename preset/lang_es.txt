@@ -9,25 +9,25 @@ msgid "New Sketch"
 msgstr "Nuevo Sketch"
 
 msgid "Serial Monitor"
-msgstr "Monitor Serial"
+msgstr "Monitor Serie"
 
 msgid "Select Build Folder"
-msgstr "Seleccionar Carpeta de Build"
+msgstr "Seleccionar Carpeta de Construcción"
 
 msgid "Show Arduino Menu"
-msgstr "Mostrar Menu de Arduino"
+msgstr "Mostrar Menú de Arduino"
 
 msgid "Programmer"
-msgstr "Programadora"
+msgstr "Programador"
 
 msgid "Select Arduino Application Folder"
 msgstr "Seleccionar Carpeta de la Aplicacion Arduino"
 
 msgid "Extra compilation flags:"
-msgstr "Flags Extra de Compilacion:"
+msgstr "Banderas de Compilación Adicionales:"
 
 msgid "Extra Flags"
-msgstr "Flags Extras"
+msgstr "Banderas Adicionales"
 
 msgid "Frequently Asked Questions"
 msgstr "Preguntas Frecuentes"
@@ -36,7 +36,7 @@ msgid "Preferences"
 msgstr "Preferencias"
 
 msgid "Full Compilation"
-msgstr "Compilacion Completa"
+msgstr "Compilación Completa"
 
 msgid "Show Verbose Output"
 msgstr "Mostrar Detalles de Salida"
@@ -48,22 +48,22 @@ msgid "Arduino {0} is found at {1}.\n"
 msgstr "Arduino {0} se encuentra en {1}.\n"
 
 msgid "Build folder is changed to {0}.\n"
-msgstr "La carpeta de Builds cambio a {0}.\n"
+msgstr "La carpeta de Construcción cambió a {0}.\n"
 
 msgid "Upload"
 msgstr "Subir"
 
 msgid "Archive Sketch"
-msgstr "Archivar Sketch"
+msgstr "Archivar Boceto"
 
 msgid "Global Setting"
-msgstr "Configuracion Global"
+msgstr "Configuración Global"
 
 msgid "Upload by Using Programmer"
-msgstr "Subir utilizando Programadora"
+msgstr "Subir utilizando Programador"
 
 msgid "Sketchbook is changed to {0}.\n"
-msgstr "La carpeta de Sketchbook cambio a {0}.\n"
+msgstr "La carpeta de Sketchs cambio a {0}.\n"
 
 msgid "Serial Port"
 msgstr "Puerto Serie"
@@ -72,16 +72,16 @@ msgid "Auto Format"
 msgstr "Auto Formato"
 
 msgid "Language"
-msgstr "Lenguaje"
+msgstr "Idioma"
 
 msgid "About Stino"
 msgstr "Sobre Stino"
 
 msgid "Import Library"
-msgstr "Importar Libreria"
+msgstr "Importar Librería"
 
 msgid "Baudrate"
-msgstr "Baudios"
+msgstr "Tasa de Baudios"
 
 msgid "Verify/Compile"
 msgstr "Verificar/Compilar"
@@ -105,16 +105,16 @@ msgid "Send"
 msgstr "Enviar"
 
 msgid "Change Sketchbook Folder"
-msgstr "Cambiar Carpeta de Sketchbook"
+msgstr "Cambiar la Carpeta Sketchbook"
 
 msgid "Stop"
 msgstr "Detener"
 
 msgid "Compilation"
-msgstr "Compilacion"
+msgstr "Compilación"
 
 msgid "Visit Arduino Website"
-msgstr "Visitar Pagina de Arduino"
+msgstr "Visitar Página de Arduino"
 
 msgid "Examples"
 msgstr "Ejemplos"
@@ -138,7 +138,7 @@ msgid "Build Options"
 msgstr "Opciones de Compilación"
 
 msgid "Board Options"
-msgstr "Opciones de Tarjeta"
+msgstr "Opciones de Placa"
 
 msgid "None"
 msgstr "Ninguna"
@@ -168,13 +168,13 @@ msgid "Verify Code after Upload"
 msgstr "Verificar código antes de cargarlo"
 
 msgid "Line Ending"
-msgstr "Final de Linea"
+msgstr "Final de Línea"
 
 msgid "New Line"
-msgstr "Nueva Linea"
+msgstr "Nueva Línea"
 
 msgid "Carriage Return"
-msgstr "Retorno de Linea"
+msgstr "Retorno de Línea"
 
 msgid "Both NL & CR"
 msgstr "Ambos NL & RL(CR)"
@@ -192,13 +192,13 @@ msgid "Run"
 msgstr "Ejecutar"
 
 msgid "Bare GCC Build (No Arduino code-munging)"
-msgstr "Construir GCC Bare (No arduino código-munging)"
+msgstr "Construir GCC Bare (No Arduino código-munging)"
 
 msgid "Big Project"
 msgstr "Proyecto Grande"
 
 msgid "Serial port {0} already in use. Try quitting any programs that may be using it.\n"
-msgstr "El puerto serial {0} ya está en uso. Intenta cerrar cualquier programa que podría estar usándolo.\n"
+msgstr "El puerto serie {0} ya está en uso. Intenta cerrar cualquier programa que podría estar usándolo.\n"
 
 msgid "[SEND] {0}\n"
 msgstr "[ENVIAR] {0}\n"
@@ -237,10 +237,10 @@ msgid "Creating {0}...\n"
 msgstr "Creando {0}...\n"
 
 msgid "Sketch uses {0} bytes ({1}%) of program storage space. Maximum is {2} bytes.\n"
-msgstr "El sketch usa {0} bytes ({1}%) del espacio de almacenamiento. El máximo es {2} bytes.\n"
+msgstr "El sketch usa {0} bytes ({1}%) del espacio de almacenamiento. El máximo es de {2} bytes.\n"
 
 msgid "Global variables use {0} bytes ({1}%) of dynamic memory, leaving {2} bytes for local variables. Maximum is {3} bytes.\n"
-msgstr "Las variables globales usan {0} bytes ({1}%) de la memoria dinámica, dejando {2} bytes para variables locales. EL máximo es {3} bytes.\n"
+msgstr "Las variables globales usan {0} bytes ({1}%) de la memoria dinámica, dejando {2} bytes para variables locales. EL máximo es de {3} bytes.\n"
 
 msgid "[Stino - Exit with error code {0}.]\n"
 msgstr "[Stino - Salida con error. Código {0}.]\n"
