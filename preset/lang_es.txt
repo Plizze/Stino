@@ -54,7 +54,7 @@ msgid "Upload"
 msgstr "Subir"
 
 msgid "Archive Sketch"
-msgstr "Archivar Boceto"
+msgstr "Archivar Sketch"
 
 msgid "Global Setting"
 msgstr "Configuración Global"
@@ -90,7 +90,7 @@ msgid "Find in Reference"
 msgstr "Encontrar en la Referencia"
 
 msgid "Troubleshooting"
-msgstr "Resolucion de Problemas"
+msgstr "Resolución de Problemas"
 
 msgid "Getting Started"
 msgstr "Primeros Pasos"
@@ -165,7 +165,7 @@ msgid "Show Upload Output"
 msgstr "Mostrar Resultado de Carga"
 
 msgid "Verify Code after Upload"
-msgstr "Verificar código antes de cargarlo"
+msgstr "Verificar Código antes de cargarlo"
 
 msgid "Line Ending"
 msgstr "Final de Línea"
@@ -177,7 +177,7 @@ msgid "Carriage Return"
 msgstr "Retorno de Línea"
 
 msgid "Both NL & CR"
-msgstr "Ambos NL & RL(CR)"
+msgstr "Ambos NL y RL(CR)"
 
 msgid "Text"
 msgstr "Texto"
