@@ -2,7 +2,7 @@
 # Spanish translations for Stino Plugin.
 # Copyright (C) 2012-2014 Robot-Will
 # This file is distributed under the same license as the Stino Plugin.
-# Matias Hernan Lauriti <matiaslauriti@gmail.com>
+# Matias Hernan Lauriti <matiaslauriti@gmail.com> y Plizze <plizze@gmail.com>
 #
 
 msgid "New Sketch"
@@ -262,3 +262,39 @@ msgstr "Ocurrió un error mientras se escribía {0}.\n"
 
 msgid "Done writing {0}.\n"
 msgstr "Escritura terminada {0}.\n"
+
+msgid "Platform File Settings - Default"
+msgstr "Ajustes Fichero Plataforma - Por Defecto"
+
+msgid "Platform File Settings - User"
+msgstr "Ajustes Fichero Plataforma - Usuario"
+
+msgid "Ram Size Settings - Default"
+msgstr "Plataforma Ajuste archivo - Por Defecto"
+
+msgid "Ram Size Settings - User"
+msgstr "Plataforma Ajuste archivo - Usuario"
+
+msgid "Arduino Duemilanove or Diecimila"
+msgstr "Arduino Duemilanove o Diecimila"
+
+msgid "Arduino Mega or Mega 2560"
+msgstr "Arduino Mega o Mega 2560"
+
+msgid "Arduino Pro or Pro Mini"
+msgstr "Arduino Pro o Prio Mini"
+
+msgid "Arduino NG or older"
+msgstr "Arduino NG o anterior"
+
+msgid "Parallel Programmer"
+msgstr "Programador por Paralelo"
+
+msgid "Arduino as ISP"
+msgstr "Arduino como ISP"
+
+msgid "Atmel STK500 development board"
+msgstr "Tarjeta de desarrollo Atmel STK500"
+
+msgid "BusPirate as ISP"
+msgstr "BusPirata como ISP"
